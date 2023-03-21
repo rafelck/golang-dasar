@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func getFullName() (firstName, middleName, lastName string) {
+func getFullName2() (firstName, middleName, lastName string) {
 	firstName = "Rafelino"
 	middleName = "Claudius"
 	lastName = "Kelen"
@@ -11,6 +11,6 @@ func getFullName() (firstName, middleName, lastName string) {
 }
 
 func main() {
-	a, b, c := getFullName()
+	a, b, c := getFullName2()
 	fmt.Println(a, b, c)
 }
