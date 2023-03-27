@@ -1,6 +1,6 @@
 package main
 
-import "GOLANG-DASAR/helper"
+import "BELAJAR-GOLANG-DASAR/helper"
 
 func main() {
 	helper.SayHello("rafel")
