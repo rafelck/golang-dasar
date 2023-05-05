@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var name string
 
-	name = "saw"
+	name = "rafel"
 
 	switch name {
 	case "eko":
